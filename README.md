@@ -1,4 +1,4 @@
-CRUD operations with nodejs with prisma and PostgreSQL
+CRUD operations API with nodejs with prisma and PostgreSQL
 
 1. npm i
 2. rename env-sample as .env
