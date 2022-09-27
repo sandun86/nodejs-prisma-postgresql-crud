@@ -36,13 +36,13 @@ app.get('/users', async (req, res) => {
 
   await prisma.Users.create({
     data: {
-      cognitoId: "abc-908787878sd44",
+      cognitoId: "absc12345efgh",
       dateOfBirth: new Date("2022-03-03"),
-      fullName: 'Fullstack',
-      email: 'abc12cc@gmail.com',
+      fullName: 'Chris George',
+      email: 'chris@gmail.com',
       gender: 'Male',
       mobileCountryCode: '94',
-      mobileNumber: '704377575',
+      mobileNumber: '777123456',
       occupation: 'SE',
       userProcessStatus: '',
       userQuestions: '',
