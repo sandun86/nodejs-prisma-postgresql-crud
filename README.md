@@ -1,5 +1,5 @@
 CRUD operations with nodejs with prisma and PostgreSQL
 
-# npm i
-# rename env-sample as .env
-# replace your local database credentials with .env variables
+1. npm i
+2. rename env-sample as .env
+3. replace your local database credentials with .env variables
